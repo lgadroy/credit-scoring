@@ -8,7 +8,7 @@ L'objectif est ici de développer un modèle de scoring pour l'octroi de crédit
 
 ## Approche
 
-Le notebook suit un cycle complet de Data Science : récupération des données, analyse exploratoire, préparation des données, modélisation et évaluation des performances. Aussi, la régression logistique a été privilégiée pour conserver un modèle interprétable pour un analyste métier.
+Le notebook suit un cycle complet de Data Science : récupération des données, analyse exploratoire, préparation des données, modélisation, évaluation du modèle et interprétation des résultats. La régression logistique a été privilégiée pour conserver un modèle interprétable pour un analyste métier.
 
 ## Résultats
 
